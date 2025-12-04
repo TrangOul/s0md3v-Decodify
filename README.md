@@ -35,7 +35,7 @@ Boom! Thats what <b>Decodify</b> does. It automatically detects the encoding and
 ### Usage
 Download Decodify with the following command:
 ```
-git clone https://github.com/UltimateHackers/Decodify
+git clone https://github.com/s0md3v/Decodify
 ```
 Now switch to Decodify directory and run the installer with this command:
 ```
